@@ -1,0 +1,624 @@
+
+Sample Number: 2000
+
+Os_mode: no
+
+Imb_ratio: 0.1
+f1_0: 0.68, f1_1: 0.64, macro_f1: 0.66, acc: 0.66, roc_auc: 0.725885125
+
+Imb_ratio: 0.2
+f1_0: 0.67, f1_1: 0.64, macro_f1: 0.66, acc: 0.65, roc_auc: 0.7180306875
+
+Imb_ratio: 0.3
+f1_0: 0.7, f1_1: 0.67, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7409263749999999
+
+Imb_ratio: 0.4
+f1_0: 0.7, f1_1: 0.67, macro_f1: 0.69, acc: 0.68, roc_auc: 0.7354549375000001
+
+Imb_ratio: 0.5
+f1_0: 0.69, f1_1: 0.66, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7348701874999999
+
+Imb_ratio: 0.6
+f1_0: 0.68, f1_1: 0.65, macro_f1: 0.67, acc: 0.67, roc_auc: 0.71919
+
+Imb_ratio: 0.7
+f1_0: 0.67, f1_1: 0.63, macro_f1: 0.65, acc: 0.65, roc_auc: 0.70704478125
+
+Imb_ratio: 0.8
+f1_0: 0.69, f1_1: 0.68, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7436877500000001
+
+Imb_ratio: 0.9
+f1_0: 0.7, f1_1: 0.68, macro_f1: 0.69, acc: 0.69, roc_auc: 0.74380315625
+
+Imb_ratio: 1.0
+f1_0: 0.69, f1_1: 0.67, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7301245
+
+Os_mode: up
+
+Imb_ratio: 0.1
+f1_0: 0.69, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7388479687499999
+
+Imb_ratio: 0.2
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7524190000000001
+
+Imb_ratio: 0.3
+f1_0: 0.67, f1_1: 0.67, macro_f1: 0.67, acc: 0.67, roc_auc: 0.716158625
+
+Imb_ratio: 0.4
+f1_0: 0.68, f1_1: 0.69, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7408610625000001
+
+Imb_ratio: 0.5
+f1_0: 0.68, f1_1: 0.67, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7369327499999999
+
+Imb_ratio: 0.6
+f1_0: 0.7, f1_1: 0.73, macro_f1: 0.71, acc: 0.71, roc_auc: 0.773477625
+
+Imb_ratio: 0.7
+f1_0: 0.69, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.75517759375
+
+Imb_ratio: 0.8
+f1_0: 0.7, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7462442499999999
+
+Imb_ratio: 0.9
+f1_0: 0.68, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.734865125
+
+Os_mode: smote
+
+Imb_ratio: 0.1
+f1_0: 0.69, f1_1: 0.68, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7450996249999999
+
+Imb_ratio: 0.2
+f1_0: 0.69, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7426623750000001
+
+Imb_ratio: 0.3
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7520028125
+
+Imb_ratio: 0.4
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7665561875
+
+Imb_ratio: 0.5
+f1_0: 0.7, f1_1: 0.69, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7556989375000001
+
+Imb_ratio: 0.6
+f1_0: 0.69, f1_1: 0.68, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7390991874999999
+
+Imb_ratio: 0.7
+f1_0: 0.71, f1_1: 0.7, macro_f1: 0.71, acc: 0.71, roc_auc: 0.76220775
+
+Imb_ratio: 0.8
+f1_0: 0.66, f1_1: 0.65, macro_f1: 0.66, acc: 0.66, roc_auc: 0.711732625
+
+Imb_ratio: 0.9
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7583763124999999
+
+Os_mode: reweight
+
+Imb_ratio: 0.1
+f1_0: 0.65, f1_1: 0.71, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7396895625
+
+Imb_ratio: 0.2
+f1_0: 0.66, f1_1: 0.72, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7511268125
+
+Imb_ratio: 0.3
+f1_0: 0.66, f1_1: 0.72, macro_f1: 0.69, acc: 0.69, roc_auc: 0.763691375
+
+Imb_ratio: 0.4
+f1_0: 0.63, f1_1: 0.7, macro_f1: 0.67, acc: 0.67, roc_auc: 0.72899546875
+
+Imb_ratio: 0.5
+f1_0: 0.66, f1_1: 0.72, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7570983125
+
+Imb_ratio: 0.6
+f1_0: 0.65, f1_1: 0.71, macro_f1: 0.69, acc: 0.68, roc_auc: 0.7443734375
+
+Imb_ratio: 0.7
+f1_0: 0.65, f1_1: 0.73, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7655519375
+
+Imb_ratio: 0.8
+f1_0: 0.66, f1_1: 0.72, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7702881875
+
+Imb_ratio: 0.9
+f1_0: 0.65, f1_1: 0.7, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7381604375
+
+Os_mode: embed_sm
+
+Imb_ratio: 0.1
+f1_0: 0.63, f1_1: 0.7, macro_f1: 0.67, acc: 0.66, roc_auc: 0.7408720625
+
+Imb_ratio: 0.2
+f1_0: 0.65, f1_1: 0.71, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7566268125
+
+Imb_ratio: 0.3
+f1_0: 0.61, f1_1: 0.7, macro_f1: 0.66, acc: 0.66, roc_auc: 0.74392509375
+
+Imb_ratio: 0.4
+f1_0: 0.64, f1_1: 0.71, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7605308125
+
+Imb_ratio: 0.5
+f1_0: 0.64, f1_1: 0.7, macro_f1: 0.67, acc: 0.67, roc_auc: 0.7489104375
+
+Imb_ratio: 0.6
+f1_0: 0.64, f1_1: 0.7, macro_f1: 0.67, acc: 0.67, roc_auc: 0.7476039375000001
+
+Imb_ratio: 0.7
+f1_0: 0.62, f1_1: 0.71, macro_f1: 0.67, acc: 0.67, roc_auc: 0.75332065625
+
+Imb_ratio: 0.8
+f1_0: 0.62, f1_1: 0.7, macro_f1: 0.67, acc: 0.66, roc_auc: 0.741741
+
+Imb_ratio: 0.9
+f1_0: 0.63, f1_1: 0.7, macro_f1: 0.67, acc: 0.67, roc_auc: 0.7431123125
+
+Os_mode: gsm
+
+Imb_ratio: 0.1
+f1_0: 0.67, f1_1: 0.71, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7545942499999999
+
+Imb_ratio: 0.2
+f1_0: 0.65, f1_1: 0.71, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7523155
+
+Imb_ratio: 0.3
+f1_0: 0.66, f1_1: 0.69, macro_f1: 0.68, acc: 0.68, roc_auc: 0.735917625
+
+Imb_ratio: 0.4
+f1_0: 0.65, f1_1: 0.67, macro_f1: 0.66, acc: 0.66, roc_auc: 0.7147659375
+
+Imb_ratio: 0.5
+f1_0: 0.67, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.741053875
+
+Imb_ratio: 0.6
+f1_0: 0.68, f1_1: 0.71, macro_f1: 0.7, acc: 0.69, roc_auc: 0.74966853125
+
+Imb_ratio: 0.7
+f1_0: 0.65, f1_1: 0.71, macro_f1: 0.68, acc: 0.68, roc_auc: 0.75236225
+
+Imb_ratio: 0.8
+f1_0: 0.66, f1_1: 0.69, macro_f1: 0.68, acc: 0.67, roc_auc: 0.729360625
+
+Imb_ratio: 0.9
+f1_0: 0.65, f1_1: 0.69, macro_f1: 0.67, acc: 0.67, roc_auc: 0.731584875
+
+Os_mode: edge_sm
+
+Imb_ratio: 0.1
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7612800000000001
+
+Imb_ratio: 0.2
+f1_0: 0.68, f1_1: 0.68, macro_f1: 0.68, acc: 0.68, roc_auc: 0.736539375
+
+Imb_ratio: 0.3
+f1_0: 0.69, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7398013124999999
+
+Imb_ratio: 0.4
+f1_0: 0.68, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7410494999999999
+
+Imb_ratio: 0.5
+f1_0: 0.68, f1_1: 0.69, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7360035
+
+Imb_ratio: 0.6
+f1_0: 0.68, f1_1: 0.67, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7367245625000001
+
+Imb_ratio: 0.7
+f1_0: 0.68, f1_1: 0.68, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7357364375000001
+
+Imb_ratio: 0.8
+f1_0: 0.69, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.74544903125
+
+Imb_ratio: 0.9
+f1_0: 0.69, f1_1: 0.67, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7495835
+
+Sample Number: 3000
+
+Os_mode: no
+
+Imb_ratio: 0.1
+f1_0: 0.72, f1_1: 0.7, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7636791599999999
+
+Imb_ratio: 0.2
+f1_0: 0.69, f1_1: 0.68, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7303335200000001
+
+Imb_ratio: 0.3
+f1_0: 0.68, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7387638400000001
+
+Imb_ratio: 0.4
+f1_0: 0.71, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.75235124
+
+Imb_ratio: 0.5
+f1_0: 0.7, f1_1: 0.68, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7419626
+
+Imb_ratio: 0.6
+f1_0: 0.7, f1_1: 0.67, macro_f1: 0.69, acc: 0.69, roc_auc: 0.74139172
+
+Imb_ratio: 0.7
+f1_0: 0.71, f1_1: 0.7, macro_f1: 0.71, acc: 0.71, roc_auc: 0.76485604
+
+Imb_ratio: 0.8
+f1_0: 0.7, f1_1: 0.69, macro_f1: 0.7, acc: 0.7, roc_auc: 0.75268134
+
+Imb_ratio: 0.9
+f1_0: 0.68, f1_1: 0.67, macro_f1: 0.68, acc: 0.68, roc_auc: 0.73107188
+
+Imb_ratio: 1.0
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7655231
+
+Os_mode: up
+
+Imb_ratio: 0.1
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7841665200000001
+
+Imb_ratio: 0.2
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.77692184
+
+Imb_ratio: 0.3
+f1_0: 0.69, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7489211599999999
+
+Imb_ratio: 0.4
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.71, acc: 0.71, roc_auc: 0.776337
+
+Imb_ratio: 0.5
+f1_0: 0.69, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.75204928
+
+Imb_ratio: 0.6
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7869796
+
+Imb_ratio: 0.7
+f1_0: 0.7, f1_1: 0.72, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7730060200000001
+
+Imb_ratio: 0.8
+f1_0: 0.71, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7647405200000001
+
+Imb_ratio: 0.9
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7699434000000001
+
+Os_mode: smote
+
+Imb_ratio: 0.1
+f1_0: 0.72, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.77341602
+
+Imb_ratio: 0.2
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7873865200000001
+
+Imb_ratio: 0.3
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7711301199999999
+
+Imb_ratio: 0.4
+f1_0: 0.72, f1_1: 0.7, macro_f1: 0.71, acc: 0.71, roc_auc: 0.77036532
+
+Imb_ratio: 0.5
+f1_0: 0.7, f1_1: 0.69, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7578107999999999
+
+Imb_ratio: 0.6
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.77428154
+
+Imb_ratio: 0.7
+f1_0: 0.69, f1_1: 0.69, macro_f1: 0.69, acc: 0.69, roc_auc: 0.74345696
+
+Imb_ratio: 0.8
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.78022504
+
+Imb_ratio: 0.9
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.75485166
+
+Os_mode: reweight
+
+Imb_ratio: 0.1
+f1_0: 0.68, f1_1: 0.72, macro_f1: 0.7, acc: 0.7, roc_auc: 0.76082998
+
+Imb_ratio: 0.2
+f1_0: 0.68, f1_1: 0.72, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7602228999999999
+
+Imb_ratio: 0.3
+f1_0: 0.68, f1_1: 0.72, macro_f1: 0.7, acc: 0.7, roc_auc: 0.76321102
+
+Imb_ratio: 0.4
+f1_0: 0.69, f1_1: 0.73, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7864552399999999
+
+Imb_ratio: 0.5
+f1_0: 0.68, f1_1: 0.73, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7669751999999999
+
+Imb_ratio: 0.6
+f1_0: 0.68, f1_1: 0.72, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7574202000000001
+
+Imb_ratio: 0.7
+f1_0: 0.67, f1_1: 0.71, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7491695
+
+Imb_ratio: 0.8
+f1_0: 0.67, f1_1: 0.71, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7446060999999999
+
+Imb_ratio: 0.9
+f1_0: 0.68, f1_1: 0.72, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7688839000000001
+
+Os_mode: embed_sm
+
+Imb_ratio: 0.1
+f1_0: 0.67, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.74826024
+
+Imb_ratio: 0.2
+f1_0: 0.68, f1_1: 0.71, macro_f1: 0.69, acc: 0.69, roc_auc: 0.76287576
+
+Imb_ratio: 0.3
+f1_0: 0.68, f1_1: 0.71, macro_f1: 0.7, acc: 0.69, roc_auc: 0.76302322
+
+Imb_ratio: 0.4
+f1_0: 0.68, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.75346998
+
+Imb_ratio: 0.5
+f1_0: 0.68, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.75638416
+
+Imb_ratio: 0.6
+f1_0: 0.68, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.75977132
+
+Imb_ratio: 0.7
+f1_0: 0.68, f1_1: 0.71, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7564662000000001
+
+Imb_ratio: 0.8
+f1_0: 0.67, f1_1: 0.69, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7393625199999999
+
+Imb_ratio: 0.9
+f1_0: 0.67, f1_1: 0.69, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7413692199999999
+
+Os_mode: gsm
+
+Imb_ratio: 0.1
+f1_0: 0.68, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.75000124
+
+Imb_ratio: 0.2
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7659649199999999
+
+Imb_ratio: 0.3
+f1_0: 0.69, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7539435999999999
+
+Imb_ratio: 0.4
+f1_0: 0.69, f1_1: 0.71, macro_f1: 0.7, acc: 0.7, roc_auc: 0.75825216
+
+Imb_ratio: 0.5
+f1_0: 0.69, f1_1: 0.71, macro_f1: 0.7, acc: 0.7, roc_auc: 0.75706578
+
+Imb_ratio: 0.6
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.71, acc: 0.71, roc_auc: 0.77505552
+
+Imb_ratio: 0.7
+f1_0: 0.68, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.74953644
+
+Imb_ratio: 0.8
+f1_0: 0.69, f1_1: 0.71, macro_f1: 0.7, acc: 0.7, roc_auc: 0.76652114
+
+Imb_ratio: 0.9
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7688664
+
+Os_mode: edge_sm
+
+Imb_ratio: 0.1
+f1_0: 0.7, f1_1: 0.69, macro_f1: 0.7, acc: 0.7, roc_auc: 0.75944988
+
+Imb_ratio: 0.2
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7552569
+
+Imb_ratio: 0.3
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7858116399999999
+
+Imb_ratio: 0.4
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.75849238
+
+Imb_ratio: 0.5
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7698176
+
+Imb_ratio: 0.6
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7770980000000001
+
+Imb_ratio: 0.7
+f1_0: 0.71, f1_1: 0.73, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7755878799999999
+
+Imb_ratio: 0.8
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.76215206
+
+Imb_ratio: 0.9
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.76553588
+
+Sample Number: 4000
+
+Os_mode: no
+
+Imb_ratio: 0.1
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.762563611111111
+
+Imb_ratio: 0.2
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7605109583333334
+
+Imb_ratio: 0.3
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7585796388888889
+
+Imb_ratio: 0.4
+f1_0: 0.71, f1_1: 0.69, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7614900833333333
+
+Imb_ratio: 0.5
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7666859722222222
+
+Imb_ratio: 0.6
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7745510972222223
+
+Imb_ratio: 0.7
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7659279583333334
+
+Imb_ratio: 0.8
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7527295277777778
+
+Imb_ratio: 0.9
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7569384583333333
+
+Imb_ratio: 1.0
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7538183611111111
+
+Os_mode: up
+
+Imb_ratio: 0.1
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7799511805555556
+
+Imb_ratio: 0.2
+f1_0: 0.72, f1_1: 0.73, macro_f1: 0.73, acc: 0.73, roc_auc: 0.792891
+
+Imb_ratio: 0.3
+f1_0: 0.73, f1_1: 0.73, macro_f1: 0.73, acc: 0.73, roc_auc: 0.7977785972222222
+
+Imb_ratio: 0.4
+f1_0: 0.72, f1_1: 0.73, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7842515277777777
+
+Imb_ratio: 0.5
+f1_0: 0.72, f1_1: 0.73, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7864235555555554
+
+Imb_ratio: 0.6
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7766427499999999
+
+Imb_ratio: 0.7
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7728943333333333
+
+Imb_ratio: 0.8
+f1_0: 0.71, f1_1: 0.73, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7763581388888888
+
+Imb_ratio: 0.9
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7856261944444445
+
+Os_mode: smote
+
+Imb_ratio: 0.1
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7796276666666666
+
+Imb_ratio: 0.2
+f1_0: 0.73, f1_1: 0.73, macro_f1: 0.73, acc: 0.73, roc_auc: 0.7913418333333334
+
+Imb_ratio: 0.3
+f1_0: 0.73, f1_1: 0.73, macro_f1: 0.73, acc: 0.73, roc_auc: 0.7968868611111111
+
+Imb_ratio: 0.4
+f1_0: 0.72, f1_1: 0.73, macro_f1: 0.73, acc: 0.73, roc_auc: 0.7912200555555555
+
+Imb_ratio: 0.5
+f1_0: 0.7, f1_1: 0.72, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7703267083333333
+
+Imb_ratio: 0.6
+f1_0: 0.73, f1_1: 0.73, macro_f1: 0.73, acc: 0.73, roc_auc: 0.7965056805555555
+
+Imb_ratio: 0.7
+f1_0: 0.74, f1_1: 0.74, macro_f1: 0.74, acc: 0.74, roc_auc: 0.8058213750000001
+
+Imb_ratio: 0.8
+f1_0: 0.73, f1_1: 0.73, macro_f1: 0.73, acc: 0.73, roc_auc: 0.79452375
+
+Imb_ratio: 0.9
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7742158750000001
+
+Os_mode: reweight
+
+Imb_ratio: 0.1
+f1_0: 0.69, f1_1: 0.72, macro_f1: 0.7, acc: 0.7, roc_auc: 0.764719236111111
+
+Imb_ratio: 0.2
+f1_0: 0.71, f1_1: 0.74, macro_f1: 0.73, acc: 0.73, roc_auc: 0.8005927777777778
+
+Imb_ratio: 0.3
+f1_0: 0.69, f1_1: 0.72, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7732220555555556
+
+Imb_ratio: 0.4
+f1_0: 0.7, f1_1: 0.73, macro_f1: 0.72, acc: 0.71, roc_auc: 0.7832767500000001
+
+Imb_ratio: 0.5
+f1_0: 0.69, f1_1: 0.73, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7754078472222222
+
+Imb_ratio: 0.6
+f1_0: 0.71, f1_1: 0.74, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7913990138888889
+
+Imb_ratio: 0.7
+f1_0: 0.69, f1_1: 0.73, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7819847083333333
+
+Imb_ratio: 0.8
+f1_0: 0.7, f1_1: 0.74, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7836489722222223
+
+Imb_ratio: 0.9
+f1_0: 0.69, f1_1: 0.73, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7753180555555554
+
+Os_mode: embed_sm
+
+Imb_ratio: 0.1
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7751856388888889
+
+Imb_ratio: 0.2
+f1_0: 0.68, f1_1: 0.68, macro_f1: 0.68, acc: 0.68, roc_auc: 0.7414361111111111
+
+Imb_ratio: 0.3
+f1_0: 0.69, f1_1: 0.7, macro_f1: 0.69, acc: 0.69, roc_auc: 0.7540430277777779
+
+Imb_ratio: 0.4
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7753983888888889
+
+Imb_ratio: 0.5
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7660242222222222
+
+Imb_ratio: 0.6
+f1_0: 0.69, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7617040277777777
+
+Imb_ratio: 0.7
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7641319722222222
+
+Imb_ratio: 0.8
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.7, acc: 0.7, roc_auc: 0.765051111111111
+
+Imb_ratio: 0.9
+f1_0: 0.69, f1_1: 0.71, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7603288472222223
+
+Os_mode: gsm
+
+Imb_ratio: 0.1
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7749763472222222
+
+Imb_ratio: 0.2
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7682472500000002
+
+Imb_ratio: 0.3
+f1_0: 0.7, f1_1: 0.69, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7549591388888889
+
+Imb_ratio: 0.4
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7602550138888888
+
+Imb_ratio: 0.5
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7791133888888889
+
+Imb_ratio: 0.6
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.772651375
+
+Imb_ratio: 0.7
+f1_0: 0.7, f1_1: 0.71, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7626048333333333
+
+Imb_ratio: 0.8
+f1_0: 0.7, f1_1: 0.7, macro_f1: 0.7, acc: 0.7, roc_auc: 0.7607106666666668
+
+Imb_ratio: 0.9
+f1_0: 0.71, f1_1: 0.7, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7665955694444445
+
+Os_mode: edge_sm
+
+Imb_ratio: 0.1
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7697248611111112
+
+Imb_ratio: 0.2
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.77715125
+
+Imb_ratio: 0.3
+f1_0: 0.71, f1_1: 0.71, macro_f1: 0.71, acc: 0.71, roc_auc: 0.7581844027777778
+
+Imb_ratio: 0.4
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7827863194444444
+
+Imb_ratio: 0.5
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7785584166666666
+
+Imb_ratio: 0.6
+f1_0: 0.71, f1_1: 0.72, macro_f1: 0.71, acc: 0.71, roc_auc: 0.773500861111111
+
+Imb_ratio: 0.7
+f1_0: 0.72, f1_1: 0.73, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7860147777777777
+
+Imb_ratio: 0.8
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.772794125
+
+Imb_ratio: 0.9
+f1_0: 0.72, f1_1: 0.72, macro_f1: 0.72, acc: 0.72, roc_auc: 0.7886105138888888

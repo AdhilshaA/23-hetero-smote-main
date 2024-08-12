@@ -1,0 +1,44 @@
+args.py: Defines hyperparameters and other parameters
+
+raw_Data_process: Reads and processes raw data into files
+
+DeepWalk.py: Uses het_random_walks, which is a list of random walks, in Word2Vec model to generate learned feature embeddings 
+            for nodes of all types. Output: node_net_embedding.txt
+
+data_generator.py: (a: author, p: paper, v: venue)
+
+  A)                  Data File                            |         Matrix                                                           
+    1) a_p_list_train.txt- a:{List of written papers}        ----> a_p_list_train 
+    2) p_a_list_train.txt- p:{List of authors} (Same as 1)   ----> p_a_list_train
+    3) p_p_citation_list.txt- p:{List of cited papers}       ----> p_p_cite_list_train
+    4) v_p_list_train.txt- v:{List of papers}                ----> v_p_list_train 
+    5) p_v.txt- p:v                                          ----> p_v
+
+    # Read these to corresponding numpy matrices: a_p_list_train, p_a_list_train, p_p_cite_list_train, v_p_list_train, and
+    # p_neigh_list_train: [[p, {List of author neighbours}, {List of cited papers}, {List of venue neighbour}] ...]
+
+  B)                  Data File                           |         Matrix 
+    1) p_abstract_embed.txt- p {embedding of dim 128}       ----> p_abstract_embed  
+    2) p_title_embed.txt- p {embedding of dim 128}          ----> p_title_embed
+    3) node_net_embedding- {a/p/v} {embedding of dim 128}   ----> a_net_embed, p_net_embed, v_net_embed
+  
+  C) p_v_net_embed: [p v_net_embed[v]], each row index corresponding to p, the row is filled with net_embed of corresponding v. 
+
+  D) p_a_net_embed: [p mean(a_net_embed[{List of author neighbours}])]: Vanilla aggregated neighbour author embedding to p
+
+  E) p_ref_net_embed: [p mean(p_net_embed[{List of cited papers}])]: : vanilla aggregated neighbour paper embedding to p
+
+  F) a_text_embed: Shape[a, 3*embed_dim/(3*128)] Stores the abstract info of top 3 neighbour papers
+    1) if len(written papers) > 3: [[a {p_abstract_embed[Neighbour 1]}, {p_abstract_embed[Neighbour 2]}, {For 3}] ...]
+    2) if len(written papers) < 3 (not empty): Concat one embedding twice or thrice
+
+  G) v_text_embed: [[v {p_abstract_embed[Neighbour 1]}, {p_abstract_embed[Neighbour 2]}, {Upto 5}] ...] Use p_v
+
+  H) Use het_neigh_train.txt- a/p/v {Neighbours from random walk}
+    1) a_neigh_list_train: [[a {List of author neighbours}][a {List of papers}][a {List of venue neighbours}]] 
+	2) p_neigh_list_train: " (Similar to above)
+    3) v_neigh_list_train: "
+    4) a_neigh_list_train_top, p_neigh_list_train_top, v_neigh_list_train_top: Only neighbours above threshold are taken: [a=10,p=10,v=3]
+ 
+  I) train_id_list = [[] for i in range(3)] Stores ids at each row a/pv. Uses a_neigh_list_train, p_neigh_list_train, v_neigh_list_train
+
